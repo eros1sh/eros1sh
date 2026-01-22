@@ -17,6 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/eros1sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eros1sh" height="30" width="40" /></a>
+<a href="https://t.me/eros_sh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1280px-Telegram_logo.svg.png?20220101141644" alt="eros_sh" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
