@@ -2,7 +2,7 @@
 
 ### No face. No voice. Just a process in the digital underground.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eros1sh&label=Profile views&color=0e75b6&style=flat" alt="eros1sh" /> </p>
+<p align="left"> <img src="https://github.eros.sh/api/profile/views?label=Profile%20views&color=0e75b6&style=flat" alt="eros1sh" /> </p>
 
 - 🌱 I'm currently learning **Deconstructing neural networks. Understanding the ethics I choose to bypass.**
 
